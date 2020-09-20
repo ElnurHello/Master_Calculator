@@ -1,2 +1,2 @@
-This is a mastered calculator program that has been mastered in Java
+This is a basic calculator program that has been mastered in Java
 
